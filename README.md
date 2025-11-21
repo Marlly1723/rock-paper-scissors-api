@@ -95,7 +95,7 @@ python yolov8/train.py --data yolov8/dataset --epochs 100 --img-size 640
 
 
 ## 📦 Pesos del modelo
-
+https://drive.google.com/drive/folders/114sX4S0Z9k3ewuHaHpRU_EFYsmt2JbuP?usp=drive_link
 
 ```markdown
 Descargar pesos YOLOv8: [enlace de descarga]
