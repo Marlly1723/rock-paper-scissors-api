@@ -1,0 +1,6 @@
+path: ../data
+train: images/train
+val: images/valid
+
+nc: 3
+names: ['Piedra', 'Papel', 'Tijera']
